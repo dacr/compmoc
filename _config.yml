@@ -5,7 +5,7 @@
 # Name of your site (displayed in the header)
 name: compmoc blog
 description: A pragmatic scala blog by a Scala enthusiast
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+avatar: https://raw.githubusercontent.com/dacr/primesui-finatra/master/src/main/resources/static/images/logo.png
 
 #
 # Flags below are optional
